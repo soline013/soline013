@@ -34,4 +34,5 @@ I hope to experience various fields.
 
 ### Link.
 
-[![Generic badge](https://shields.io/badge/Linkedin-Hyeonsol-blue.svg)](https://www.linkedin.com/in/hyeonsol-sim/) [![Generic badge](https://shields.io/badge/Notion-Machine_Learning-blue.svg)](https://www.notion.so/asollie/Machine-Learning-f4a1ecdfd6d94ce1899b007b47663b30)
+[![Generic badge](https://shields.io/badge/Linkedin-Hyeonsol-blue.svg)](https://www.linkedin.com/in/hyeonsol-sim/)
+<!-- [![Generic badge](https://shields.io/badge/Notion-Machine_Learning-blue.svg)](https://www.notion.so/asollie/Machine-Learning-f4a1ecdfd6d94ce1899b007b47663b30) -->
