@@ -31,6 +31,7 @@ I hope to experience various fields.
 ### Project.
 - Fashion MNIST, Intel Image Classification 다루는 ML Project
 - Transformer 구현 Project
+- Style Transfer 구현 Project
 
 ### Link.
 
