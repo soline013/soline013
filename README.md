@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-머신러닝/딥러닝을 공부하고 있고, 최근 Interactive Design에 관심이 많습니다.
+머신러닝/딥러닝을 공부하고 있고, 관심 분야는 Computer Vision과 RL입니다.
 
 Fashion, Cosmetic, Interior, Design 등 다양한 분야를 경험하고, 공부하고 있습니다.
 
-I am studying Machine Learning & Deep Learning, and recently I am interested in Interactive Design.
+I am studying Machine Learning & Deep Learning, and interested in Computer Vision & RL.
 
 I hope to experience various fields.
 
