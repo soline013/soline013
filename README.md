@@ -25,7 +25,7 @@ I hope to experience various fields.
 
 ### Point.
 - 머신러닝/딥러닝 동아리 SSUML
-- 소프트웨어 공학 학회 Unii
+- 소프트웨어 공학 학회 Uniii
 - Coursera | Neural Networks and Deep Learning
 
 ### Project.
