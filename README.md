@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 머신러닝/딥러닝을 공부하고 있고, 관심 분야는 Computer Vision과 Reinforcement Learning입니다.
 
-최근에는 Computer Graphics에 관심이 많습니다.
+최근에는 Computer Graphics에 관심이 있습니다.
 
 I am studying Machine Learning & Deep Learning, and interested in Computer Vision & Reinforcement Learning.
 
