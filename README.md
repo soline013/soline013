@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **soline013/soline013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Sollie.
 
 머신러닝/딥러닝을 공부하고 있고, 관심 분야는 Computer Vision과 Reinforcement Learning입니다.
 
