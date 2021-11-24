@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Sollie.
+# About Sollie.
 
 머신러닝/딥러닝을 공부하고 있고, 관심 분야는 Computer Vision과 Reinforcement Learning입니다.
 
@@ -22,17 +22,40 @@ Here are some ideas to get you started:
 
 I am studying Machine Learning & Deep Learning, and interested in Computer Vision & Reinforcement Learning.
 
-### Point.
-- 머신러닝/딥러닝 동아리 SSUML
-- 소프트웨어 공학 학회 Uniii
-- Coursera | Neural Networks and Deep Learning
+## Skill.
+- Language: **Python, C/C++**
+- Machine Learning: **Computer Vision, Reinforcement Learning, Pytorch, TensorFlow**
+- Game Making: **2D Game Making, Gamemaker Studio**
+- ETC: **Git/Github, Vim**
 
-### Project.
-- Fashion MNIST, Intel Image Classification 다루는 ML Project
-- Transformer 구현 Project
-- Style Transfer 구현 Project
+## Team Project.
+1. Transformer in Pytorch, Multi30, Torchtext
+2. Style Transfer in Pytorch, TensorFlow
+3. Intel Image Classification
+4. 우범화물 탐지를 위한 AI경진대회
 
-### Link.
+## Toy Project.
+1. YOLOv1 in Pytorch    
+2. MediaPipe(Objectron, Hand, Holistic, etc.)    
+3. Cartpole in DQN, Pytorch, TensorFlow    
+4. Fashion MNIST
+
+## Paper Review.
+1. NLP
+    - **Attention Is All You Need**
+    
+2. Computer Vision
+    - **A Neural Algorithm of Artistic Style**
+    - **Image Style Transfer Using Convolutional Neural Networks**
+    - **You Only Look Once: Unified, Real-Time Object Detection**
+    - **YOLO9000: Better, Faster, Stronger**
+    - **YOLOv3: An Incremental Improvement**
+    - **Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations**
+    - **Self-Attention Generative Adversarial Networks**
+    - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+    - **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**
+
+## Link.
 
 [![Generic badge](https://shields.io/badge/Linkedin-Hyeonsol-blue.svg)](https://www.linkedin.com/in/hyeonsol-sim/)
 <!-- [![Generic badge](https://shields.io/badge/Notion-Machine_Learning-blue.svg)](https://www.notion.so/asollie/Machine-Learning-f4a1ecdfd6d94ce1899b007b47663b30) -->
