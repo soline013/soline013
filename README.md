@@ -40,21 +40,6 @@ I am studying Machine Learning & Deep Learning, and interested in Computer Visio
 3. Cartpole in DQN, Pytorch, TensorFlow    
 4. Fashion MNIST
 
-## Paper Review.
-1. NLP
-    - **Attention Is All You Need**
-    
-2. Computer Vision
-    - **A Neural Algorithm of Artistic Style**
-    - **Image Style Transfer Using Convolutional Neural Networks**
-    - **You Only Look Once: Unified, Real-Time Object Detection**
-    - **YOLO9000: Better, Faster, Stronger**
-    - **YOLOv3: An Incremental Improvement**
-    - **Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations**
-    - **Self-Attention Generative Adversarial Networks**
-    - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
-    - **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**
-
 ## Link.
 
 [![Generic badge](https://shields.io/badge/Linkedin-Hyeonsol-blue.svg)](https://www.linkedin.com/in/hyeonsol-sim/)
