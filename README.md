@@ -14,48 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # About Sollie.
 
-머신러닝/딥러닝을 공부하고 있고, 관심 분야는 Computer Vision과 Reinforcement Learning입니다.
+머신러닝/딥러닝을 공부하고 있고, 관심 분야는 NLP와 Computer Vision 입니다.
 
-최근에는 Computer Graphics에 관심이 있습니다.
+I am studying Machine Learning & Deep Learning, and interested in NLP & Computer Vision
 
-I am studying Machine Learning & Deep Learning, and interested in Computer Vision & Reinforcement Learning.
+# Skill
 
-## Skill.
-- Language: **Python, C/C++**
-- Machine Learning: **Computer Vision, Reinforcement Learning, Pytorch, TensorFlow**
-- Game Making: **2D Game Making, Gamemaker Studio**
-- ETC: **Git/Github, Vim**
+ - Language: Python, C/C++
+ - Machine Learning: Computer Vision, NLP, PyTorch, TensorFlow
+ - ETC: Git/Github, Vim, Graphic Design
 
-## Team Project.
-1. Transformer in Pytorch, Multi30, Torchtext
-2. Style Transfer in Pytorch, TensorFlow
-3. Intel Image Classification
-4. 우범화물 탐지를 위한 AI경진대회
+# Project
 
-## Toy Project.
-1. YOLOv1 in Pytorch    
-2. MediaPipe(Objectron, Hand, Holistic, etc.)    
-3. Cartpole in DQN, Pytorch, TensorFlow    
-4. Fashion MNIST
+ 1. Implement Transformer with PyTorch, Multi30, Torchtext
+ 2. Implement Style Transfer with Pytorch, TensorFlow
+ 3. Intelligent Korean Sentence Construction with Speech-to-text, Text Summarization
+ 4. De-identify Personal Data in Everyday Life with Object Detection, OCR, Token Classification
 
-## Paper Review.
-1. NLP
-    - Attention Is All You Need
-    
-2. Computer Vision
-    - A Neural Algorithm of Artistic Style
-    - Image Style Transfer Using Convolutional Neural Networks
-    - You Only Look Once: Unified, Real-Time Object Detection
-    - YOLO9000: Better, Faster, Stronger
-    - YOLOv3: An Incremental Improvement
-    - Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations
-    - Self-Attention Generative Adversarial Networks
-    - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-    - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
-
-## Link.
+# Link
 
 [![Generic badge](https://shields.io/badge/Linkedin-Hyeonsol-blue.svg)](https://www.linkedin.com/in/hyeonsol-sim/)
 <!-- [![Generic badge](https://shields.io/badge/Notion-Machine_Learning-blue.svg)](https://www.notion.so/asollie/Machine-Learning-f4a1ecdfd6d94ce1899b007b47663b30) -->
