@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Sollie
 
-# Current interests:
+# Current interests
 
  - Model Optimization
  - Model Serving
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
  - Object Detection & Object Tracking
  - Pose Estimation
 
-# Introduce:
+# Introduce
 
  - 머신러닝/딥러닝을 공부하고 있습니다.
  - Computer Vision, NLP, Speech, Multi-modal 등 다양한 분야를 수행합니다.
  - 서비스와 연구 경험으로 유연한 업무가 가능합니다.
 
-# Skill Set:
+# Skill Set
 
  - Programming Language: Python, C/C++
  - Machine Learning: Computer Vision, NLP, Speech, Multi-modal
