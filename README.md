@@ -15,24 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Sollie.
+# About Sollie
 
-머신러닝/딥러닝을 공부하고 있고, 관심 분야는 NLP와 Computer Vision 입니다.
+# Current interests:
 
-I am studying Machine Learning & Deep Learning, and interested in NLP & Computer Vision
+ - Model Optimization
+ - Model Serving
+ - Language Model
+ - Object Detection & Object Tracking
+ - Pose Estimation
 
-# Skill
+# Introduce:
 
- - Language: Python, C/C++
- - Machine Learning: Computer Vision, NLP, PyTorch, TensorFlow
- - ETC: Git/Github, Vim, Graphic Design
+ - 머신러닝/딥러닝을 공부하고 있습니다.
+ - Computer Vision, NLP, Speech, Multi-modal 등 다양한 분야를 수행합니다.
+ - 서비스와 연구 경험으로 유연한 업무가 가능합니다.
+
+# Skill Set:
+
+ - Programming Language: Python, C/C++
+ - Machine Learning: Computer Vision, NLP, Speech, Multi-modal
+ - Framework/Library: Pytorch, TensorFlow, Flask, Django, React
+ - Tools: Git/Github, Vim
+ - Environment: Linux, Window, Mac OS, AWS
+ - ETC: Graphic Design, Photoshop, Illutrator, InDesign, Premlere, Blender
 
 # Project
 
  1. Implement Transformer with PyTorch, Multi30, Torchtext
- 2. Implement Style Transfer with Pytorch, TensorFlow
- 3. Intelligent Korean Sentence Construction with Speech-to-text, Text Summarization
- 4. De-identify Personal Data in Everyday Life with Object Detection, OCR, Token Classification
+ 2. Intelligent Korean Sentence Construction with Speech-to-text, Text Summarization
+ 3. De-identify Personal Data in Everyday Life with Object Detection, OCR, Token Classification
+ 4. Cow's Standing Behavior Object Detection System Using YOLOv7
+ 5. Implement Style Transfer with Pytorch, TensorFlow
 
 # Link
 
